@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.com
+
+[foreman.foreman_providers_cloud]
+file_filter = locale/<lang>/foreman_providers_cloud.edit.po
+source_file = locale/foreman_providers_cloud.pot
+source_lang = en
+type = PO
