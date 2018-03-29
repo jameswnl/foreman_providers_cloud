@@ -1,4 +1,4 @@
-module Providers::Infra::Associations
+module Providers::Cloud::Associations
   extend ActiveSupport::Concern
 
   included do
